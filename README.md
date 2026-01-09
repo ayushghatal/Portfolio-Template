@@ -32,6 +32,7 @@ photo: "placeholder",
 **Options:**
 - Keep it as `"placeholder"` to show your initials in a circle
 - Or paste any image URL like: `"https://example.com/your-photo.jpg"`
+- Or place the image in same directory: `"your-photo.jpg"`
 
 **How to get an image URL:**
 1. Upload your photo to a free image hosting site like [Imgur](https://imgur.com)
