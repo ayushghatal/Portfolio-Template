@@ -4,7 +4,7 @@ const config = {
   // ============================================
 
   // Theme name here, default "Light"
-  theme: "Dark",
+  theme: "ultra dark",
 
   // ============================================
   // BASIC INFORMATION

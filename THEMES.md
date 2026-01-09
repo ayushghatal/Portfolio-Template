@@ -16,14 +16,15 @@ theme: "light",  // Change this to any theme name below
 ## Classic Themes
 
 ### Light
-![Light Theme](assets/light.png)
+<img src="assets/light.png" alt="Light Theme" width="800">
+
 ```javascript
 theme: "light"
 ```
 The default clean black text on white background - timeless and professional.
 
 ### Dark
-![Dark Theme](assets/dark.png)
+<img src="assets/dark.png" alt="Dark Theme" width="800">
 ```javascript
 theme: "dark"
 ```
@@ -34,98 +35,111 @@ White text on deep black background - modern and elegant.
 ## Standard Color Themes
 
 ### Ivory
-![Ivory Theme](assets/ivory.png)
+<img src="assets/ivory.png" alt="Ivory Theme" width="800">
+
 ```javascript
 theme: "ivory"
 ```
 Soft cream background with warm dark text.
 
 ### Charcoal
-![Charcoal Theme](assets/charcoal.png)
+<img src="assets/charcoal.png" alt="Charcoal Theme" width="800">
+
 ```javascript
 theme: "charcoal"
 ```
 Dark gray background with light text.
 
 ### Espresso
-![Espresso Theme](assets/espresso.png)
+<img src="assets/espresso.png" alt="Espresso Theme" width="800">
+
 ```javascript
 theme: "espresso"
 ```
 Rich coffee brown tones.
 
 ### Mint
-![Mint Theme](assets/mint.png)
+<img src="assets/mint.png" alt="Mint Theme" width="800">
+
 ```javascript
 theme: "mint"
 ```
 Fresh mint green background.
 
 ### Lavender
-![Lavender Theme](assets/lavender.png)
+<img src="assets/lavender.png" alt="Lavender Theme" width="800">
+
 ```javascript
 theme: "lavender"
 ```
 Soft purple tones for a creative touch.
 
 ### Burgundy
-![Burgundy Theme](assets/burgundy.png)
+<img src="assets/burgundy.png" alt="Burgundy Theme" width="800">
+
 ```javascript
 theme: "burgundy"
 ```
 Deep red wine color palette.
 
 ### Terracota
-![Terracota Theme](assets/terracota.png)
+<img src="assets/terracota.png" alt="Terracota Theme" width="800">
+
 ```javascript
 theme: "terracota"
 ```
 Warm earthy orange-red tones.
 
 ### Deep Forest
-![Deep Forest Theme](assets/deep-forest.png)
+<img src="assets/deep-forest.png" alt="Deep Forest Theme" width="800">
+
 ```javascript
 theme: "deep-forest"
 ```
 Rich forest green background.
 
 ### Deep Ocean
-![Deep Ocean Theme](assets/deep-ocean.png)
+<img src="assets/deep-ocean.png" alt="Deep Ocean Theme" width="800">
+
 ```javascript
 theme: "deep-ocean"
 ```
 Deep blue ocean-inspired palette.
 
 ### Metallic Gold
-![Metallic Gold Theme](assets/metallic-gold.png)
+<img src="assets/metallic-gold.png" alt="Metallic Gold Theme" width="800">
+
 ```javascript
 theme: "metallic-gold"
 ```
 Luxurious gold and black combination.
 
 ### Slate Gray
-![Slate Gray Theme](assets/slate-gray.png)
+<img src="assets/slate-gray.png" alt="Slate Gray Theme" width="800">
+
 ```javascript
 theme: "slate-gray"
 ```
 Cool gray with balanced contrast.
 
 ### Slate Purple
-![Slate Purple Theme](assets/slate-purple.png)
+<img src="assets/slate-purple.png" alt="Slate Purple Theme" width="800">
+
 ```javascript
 theme: "slate-purple"
 ```
 Purple-tinted gray background.
 
 ### Concrete Lime
-![Concrete Lime Theme](assets/concrete-lime.png)
+<img src="assets/concrete-lime.png" alt="Concrete Lime Theme" width="800">
+
 ```javascript
 theme: "concrete-lime"
 ```
 Industrial gray with lime green accents.
 
 ### Brutal Lime
-![Brutal Lime Theme](assets/brutal-lime.png)
+<img src="assets/brutal-lime.png" alt="Brutal Lime Theme" width="800">
 ```javascript
 theme: "brutal-lime"
 ```
@@ -138,35 +152,39 @@ Bold lime green and black contrast.
 Brutalist themes feature bold, raw aesthetics with strong geometric elements and unconventional layouts.
 
 ### Brutalist Artic
-![Brutalist Artic Theme](assets/asymmetric-brutalist-artic.png)
+<img src="assets/brutalist-artic.png" alt="Brutalist Artic Theme" width="800">
+
 ```javascript
 theme: "brutalist-artic"
 ```
 Icy blue brutalist design with sharp angles.
 
 ### Brutalist Green
-![Brutalist Green Theme](assets/asymmetric-brutalist-green.png)
+<img src="assets/brutalist-green.png" alt="Brutalist Green Theme" width="800">
+
 ```javascript
 theme: "brutalist-green"
 ```
 Bold green with brutalist structure.
 
 ### Brutalist Lime
-![Brutalist Lime Theme](assets/asymmetric-brutalist-lime.png)
+<img src="assets/brutalist-lime.png" alt="Brutalist Lime Theme" width="800">
+
 ```javascript
 theme: "brutalist-lime"
 ```
 Electric lime green brutalist layout.
 
 ### Brutalist Orange
-![Brutalist Orange Theme](assets/asymmetric-brutalist-orange.png)
+<img src="assets/brutalist-orange.png" alt="Brutalist Orange Theme" width="800">
+
 ```javascript
 theme: "brutalist-orange"
 ```
 Vibrant orange brutalist aesthetic.
 
 ### Brutalist Purple
-![Brutalist Purple Theme](assets/asymmetric-brutalist-purple.png)
+<img src="assets/brutalist-purple.png" alt="Brutalist Purple Theme" width="800">
 ```javascript
 theme: "brutalist-purple"
 ```
@@ -179,21 +197,24 @@ Purple tones with raw brutalist elements.
 Eclipse themes offer sophisticated dark backgrounds with contrasting light text and elegant accents.
 
 ### Eclipse Dark
-![Eclipse Dark Theme](assets/eclipse-dark.png)
+<img src="assets/eclipse-dark.png" alt="Eclipse Dark Theme" width="800">
+
 ```javascript
 theme: "eclipse-dark"
 ```
 Pure eclipse aesthetic with deep shadows.
 
 ### Eclipse Light
-![Eclipse Light Theme](assets/eclipse-light.png)
+<img src="assets/eclipse-light.png" alt="Eclipse Light Theme" width="800">
+
 ```javascript
 theme: "eclipse-light"
 ```
 Inverted eclipse with light background.
 
 ### Eclipse Warm
-![Eclipse Warm Theme](assets/eclipse-warm.png)
+<img src="assets/eclipse-warm.png" alt="Eclipse Warm Theme" width="800">
+    
 ```javascript
 theme: "eclipse-warm"
 ```
@@ -206,14 +227,15 @@ Eclipse theme with warm amber tones.
 Monolith themes embrace minimalism with strong monochromatic palettes and bold typography.
 
 ### Monolith Dark
-![Monolith Dark Theme](assets/monolith-dark.png)
+<img src="assets/monolith-dark.png" alt="Monolith Dark Theme" width="800">
+
 ```javascript
 theme: "monolith-dark"
 ```
 Pure black monolithic design.
 
 ### Monolith Light
-![Monolith Light Theme](assets/monolith-light.png)
+<img src="assets/monolith-light.png" alt="Monolith Light Theme" width="800">
 ```javascript
 theme: "monolith-light"
 ```
@@ -226,14 +248,15 @@ Pure white monolithic aesthetic.
 Paco themes feature unique color combinations with balanced contrast and modern styling.
 
 ### Paco Dark
-![Paco Dark Theme](assets/paco-dark.png)
+<img src="assets/paco-dark.png" alt="Paco Dark Theme" width="800">
+
 ```javascript
 theme: "paco-dark"
 ```
 Dark Paco theme with signature styling.
 
 ### Paco Light
-![Paco Light Theme](assets/paco-light.png)
+<img src="assets/paco-light.png" alt="Paco Light Theme" width="800">
 ```javascript
 theme: "paco-light"
 ```
@@ -246,14 +269,15 @@ Light Paco theme with clean aesthetics.
 Ultra themes push boundaries with maximum contrast and dramatic visual impact.
 
 ### Ultra Dark
-![Ultra Dark Theme](assets/ultra-dark.png)
+<img src="assets/ultra-dark.png" alt="Ultra Dark Theme" width="800">
+
 ```javascript
 theme: "ultra-dark"
 ```
 Maximum darkness with high contrast.
 
 ### Ultra Light
-![Ultra Light Theme](assets/ultra-light.png)
+<img src="assets/ultra-light.png" alt="Ultra Light Theme" width="800">
 ```javascript
 theme: "ultra-light"
 ```
