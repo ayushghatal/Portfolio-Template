@@ -141,6 +141,7 @@ Industrial gray with lime green accents.
 
 ### Brutal Lime
 <img src="assets/brutal-lime.png" alt="Brutal Lime Theme" width="800">
+
 ```javascript
 theme: "brutal-lime"
 ```
@@ -186,6 +187,7 @@ Vibrant orange brutalist aesthetic.
 
 ### Brutalist Purple
 <img src="assets/brutalist-purple.png" alt="Brutalist Purple Theme" width="800">
+
 ```javascript
 theme: "brutalist-purple"
 ```
@@ -237,6 +239,7 @@ Pure black monolithic design.
 
 ### Monolith Light
 <img src="assets/monolith-light.png" alt="Monolith Light Theme" width="800">
+
 ```javascript
 theme: "monolith-light"
 ```
@@ -258,6 +261,7 @@ Dark Paco theme with signature styling.
 
 ### Paco Light
 <img src="assets/paco-light.png" alt="Paco Light Theme" width="800">
+
 ```javascript
 theme: "paco-light"
 ```
@@ -279,6 +283,7 @@ Maximum darkness with high contrast.
 
 ### Ultra Light
 <img src="assets/ultra-light.png" alt="Ultra Light Theme" width="800">
+
 ```javascript
 theme: "ultra-light"
 ```
